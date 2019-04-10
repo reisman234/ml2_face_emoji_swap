@@ -1,0 +1,14 @@
+.idea/
+
+*.pyc
+*.npy
+*.hdf5
+
+data/fer2013.bib
+data/fer2013.csv
+data/README
+
+.ipynb_checkpoints/
+logs/
+
+#__pycache__/
